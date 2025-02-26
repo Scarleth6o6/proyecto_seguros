@@ -33,7 +33,7 @@ Evaluar el impacto de la transformación en la calidad de los modelos.
 
 ⚙️ Instalación
 Clona este repositorio:
-git clone https://github.com/tuusuario/proyecto-seguros.git
+git clone https://github.com/Scarleth6o6/proyecto_seguros
 cd proyecto-seguros
 
 Instala las dependencias:
