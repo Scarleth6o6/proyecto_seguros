@@ -20,6 +20,7 @@ Implementar un método de transposición de matrices para proteger los datos per
 Evaluar el impacto de la transformación en la calidad de los modelos.
 📂 Estructura del Proyecto
 📁 proyecto-seguros
+
 │── 📂 data/                  # Carpeta para almacenar los datos (vacía por privacidad)
 
 │── 📂 notebooks/             # Análisis y desarrollo en Jupyter Notebooks
