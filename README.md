@@ -21,9 +21,13 @@ Evaluar el impacto de la transformación en la calidad de los modelos.
 📂 Estructura del Proyecto
 📁 proyecto-seguros
 │── 📂 data/                  # Carpeta para almacenar los datos (vacía por privacidad)
+
 │── 📂 notebooks/             # Análisis y desarrollo en Jupyter Notebooks
+
 │── 📄 README.md              # Este archivo
+
 │── 📄 requirements.txt       # Dependencias necesarias
+
 ⚠️ Nota: El dataset utilizado (insurance_us.csv) no se encuentra en el repositorio por razones de privacidad. Puedes reemplazarlo con un dataset similar o utilizar tus propios datos.
 
 ⚙️ Instalación
