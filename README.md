@@ -18,7 +18,9 @@ Ofuscación de datos sin afectar el rendimiento del modelo:
 
 Implementar un método de transposición de matrices para proteger los datos personales.
 Evaluar el impacto de la transformación en la calidad de los modelos.
+
 📂 Estructura del Proyecto
+
 📁 proyecto-seguros
 
 │── 📂 data/                  # Carpeta para almacenar los datos (vacía por privacidad)
