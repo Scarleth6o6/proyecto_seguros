@@ -1,4 +1,5 @@
 🏥 Predicción y Protección de Datos para una Compañía de Seguros
+
 Este proyecto analiza el comportamiento de los clientes de la aseguradora Sure Tomorrow mediante modelos de Machine Learning para resolver cuatro tareas clave: 
 identificación de clientes similares, predicción de prestaciones de seguro, estimación del número de prestaciones y protección de datos personales.
 
